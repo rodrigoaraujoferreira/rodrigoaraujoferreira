@@ -20,6 +20,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou constantemente b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" alt="Maven"/>
 </p>
 
+**Outras tecnologias:**
+
+- EJB
+- JSF
+- PrimeFaces
+- Gladew
+
 ## O que me motiva
 
 Busco sempre criar soluções eficientes, práticas e que entreguem valor real para o usuário final. Estou em constante evolução, com foco em qualidade de código, boas práticas e crescimento profissional.
