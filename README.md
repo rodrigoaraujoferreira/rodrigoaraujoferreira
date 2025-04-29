@@ -1,6 +1,5 @@
 ## Sobre mim
-
-Olá! 👋  
+ 
 Sou desenvolvedor backend com experiência sólida em Java. Minha trajetória na área de tecnologia começou em 2019, na Ara Solution Tecnologia de Sistemas, onde tive a oportunidade de atuar em diversas áreas: suporte técnico, treinamentos, desenvolvimento de sites e, posteriormente, no time de desenvolvimento de sistemas.
 
 Atualmente, trabalho principalmente com desenvolvimento backend em Java, utilizando frameworks como Spring Boot e EJB. No frontend, tenho experiência com JSF e PrimeFaces em sistemas legados. Também participo do desenvolvimento e manutenção de APIs REST, integrações com bancos de dados e automações de processos, sempre focando em melhorar a experiência do usuário.
@@ -25,7 +24,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou constantemente b
 - EJB
 - JSF
 - PrimeFaces
-- Gladew
+- Glade
 
 ## O que me motiva
 
